@@ -1,0 +1,24 @@
+PODS:
+  - Kingfisher (7.6.1)
+  - lottie-ios (4.1.2)
+  - SkeletonView (1.30.4)
+
+DEPENDENCIES:
+  - Kingfisher
+  - lottie-ios
+  - SkeletonView
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - lottie-ios
+    - SkeletonView
+
+SPEC CHECKSUMS:
+  Kingfisher: 93a3c6d0d551658a31e19f21747e1d15cb39d525
+  lottie-ios: b3846a9fa8ca1a1a3bebfa256ebe8b6fd4aaaaad
+  SkeletonView: 5a050f6411e697abd4cda0a8d767013399dccd69
+
+PODFILE CHECKSUM: e9012e3600c69a21295f5fa306821fc809552cd3
+
+COCOAPODS: 1.11.3
